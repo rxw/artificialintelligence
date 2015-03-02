@@ -1,4 +1,4 @@
-### Python Artificial Intelligence
+# Python Artificial Intelligence
 This is a small project that reads voice input and responds with a cleverbot or
 wolfram aplha.
 
@@ -24,8 +24,8 @@ cb1 = cleverbot.Cleverbot()
 print cb1.ask('Hi. How are you?")
 ```
 ## Requirements
-Python2.7
-Requests
-[SpeechRecognition](https://pypi.python.org/pypi/SpeechRecognition/)
+*Python2.7
+*Requests
+*[SpeechRecognition](https://pypi.python.org/pypi/SpeechRecognition/)
 
 
